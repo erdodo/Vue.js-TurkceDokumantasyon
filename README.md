@@ -360,5 +360,3 @@ Yine aşağı yukarı aynı mantıkta olan dögüleri hemen kodlar üzerinde inc
   });
 </script>
 ```
-
-/
